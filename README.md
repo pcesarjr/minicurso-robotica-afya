@@ -95,3 +95,8 @@ LEDs com resistor de 560 Ω e segmentos do display com 620 Ω. Diagrama completo
 ## Autor
 
 Prof. Paulo César da Silva Junior
+
+## Licença
+
+- **Códigos** (`.ino`, `.h`, notebook e scripts): [MIT](LICENSE).
+- **Apostila, diagramas e slides** (`docs/`): [CC BY 4.0](LICENSE-DOCS.md). Pode usar e adaptar, inclusive em outras turmas, desde que cite o autor.
