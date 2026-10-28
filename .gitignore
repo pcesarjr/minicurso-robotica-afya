@@ -1,0 +1,22 @@
+# Arduino / PlatformIO
+build/
+.pio/
+*.hex
+*.elf
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Node
+node_modules/
+package-lock.json
+
+# Dados gravados em aula (podem ter o nome dos alunos)
+dados_grupo*.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
+~$*
